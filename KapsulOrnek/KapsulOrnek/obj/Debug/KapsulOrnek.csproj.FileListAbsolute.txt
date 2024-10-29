@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KapsulOrnek\KapsulOrnek\bin\Debug\KapsulOrnek.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KapsulOrnek\KapsulOrnek\bin\Debug\KapsulOrnek.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KapsulOrnek\KapsulOrnek\bin\Debug\KapsulOrnek.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KapsulOrnek\KapsulOrnek\obj\Debug\KapsulOrnek.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KapsulOrnek\KapsulOrnek\obj\Debug\KapsulOrnek.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KapsulOrnek\KapsulOrnek\obj\Debug\KapsulOrnek.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KapsulOrnek\KapsulOrnek\obj\Debug\KapsulOrnek.pdb
